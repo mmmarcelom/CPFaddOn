@@ -1,4 +1,4 @@
-# cpf
+# CPF Add On
 Extensão do Google Workspace para formatar e validar números de CPF.
 
 Disponível para instalação através do link:
